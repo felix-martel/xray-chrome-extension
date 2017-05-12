@@ -4,7 +4,7 @@ Extension Chrome - permet d'écouter le flux d'X-Ray sans passer par Frankiz (de
 
 ## Installation
 
-Récupérez le fichier `dist/xray.crx` et déposez-le dans [chrome://extensions](chrome://extensions). 
+Récupérez le fichier `dist/xray.crx` et déposez-le dans la page Extensions de Chrome (chrome://extensions). 
 Une icône apparait en haut à droite de Chrome et ça marche !
 
 ## To-do
