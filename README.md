@@ -1,6 +1,7 @@
 # X • RAY ON CHROME
 
 Extension Chrome - permet d'écouter le flux d'X-Ray sans passer par Frankiz (depuis le plâtal uniquement)
+Elle est accessible sur le Chrome Web Store, [en cliquant ici](https://chrome.google.com/webstore/detail/x-ray-chrome-player/gjjnnoiihcebibffajnjlmlcnblaiock?hl=fr)
 
 ## Installation
 
