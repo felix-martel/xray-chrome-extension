@@ -9,6 +9,7 @@ Une icône apparait en haut à droite de Chrome et ça marche !
 
 ## To-do
 
++ Faire une version Firefox, et la faire valider par AMO (nécessaire pour la distribuer facilement)
 + Afficher des informations sur le morceau en cours de lecture (Ajax)
 + Fonction _sleep_ avec baisse progressive du volume, et durée réglable
 + Suggestion de titres/contact avec les animateurs
